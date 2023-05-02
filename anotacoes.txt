@@ -1,4 +1,7 @@
 O que é Kotlin?
     - linguagem de programção concisa, segura, interoperável com java e outras linguagens.
     - Oferece muitas maneiras de reutilizar código entre várias plataformas para uma programação produtiva.
-    
+
+Por que utilizar o Kotlin?
+    - Consegue entregar muito valor com pouco código
+        - Mais enxuto
