@@ -18,6 +18,6 @@ class MutableStack<E>(vararg items: E) {              // 1
   fun <E> mutableStackOf(vararg elements: E) = MutableStack(*elements)
   // inicia-se esse <E> para função genérica
   fun main() {
-    val stack = mutableStackOf(1, 2, 3)
+    val stack = mutableStackOf <Int> (1, 2, 3)
     println(stack)
   }
